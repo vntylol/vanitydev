@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=72696414)
-## :wave: hello world, I'm amogsuss, a full-stack developer working on several private projects.
+## :wave: hello world, I'm amogsuss, a full-stack developer.
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true">
 
