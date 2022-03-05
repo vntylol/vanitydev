@@ -1,8 +1,12 @@
 ![](https://hit.yhype.me/github/profile?user_id=72696414)
-## :wave: Hello there! Welcome to my profile
+## :wave: hello world, I'm amogsuss, a full-stack developer working on several private projects.
 
-I'm amogsuss, a full-stack developer working on several private projects
-![Metrics](https://metrics.lecoq.io/amogsuss?template=classic&languages=1&isocalendar=1&activity=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=https%3A%2F%2Fpogy.xyz&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FBeirut)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=DeltaCoderr&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=amogsuss&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amogsuss&theme=tokyonight&hide=batchfile">
+
+
+
+![Metrics](https://metrics.lecoq.io/amogsuss?template=classic&languages=1&isocalendar=1&activity=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=https%3A%2F%2Fwww.classify.cf&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FBeirut)
 
 ### ✉️ Contact Me
 
